@@ -21,7 +21,8 @@
   | ----------------------------------- | ----------------------------------- | ----------------------------------- |
   | ![One](https://github.com/karol-oman/karol-oman/assets/90765144/9e6c8e3e-0ef7-426f-92bb-0a8dabe55939)
 ) | ![Two](https://github.com/karol-oman/karol-oman/assets/90765144/a7c4272b-2253-4f67-891a-680a60b20b06)
-) | ![Three](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/4b/10/49/4b10490e-9949-e298-1c8b-2c1bd0dc7d90/125bac03-8585-4462-8e96-00bc9ce6c429_bild2.png/400x800bb.png)
+) | ![Three](https://github.com/karol-oman/karol-oman/assets/90765144/494f992a-f8b8-4e6b-88c5-1c9a6a93d94a)
+)
 - <b>Lunarlight, chat app for iOS</b>
   - [Made in Swift](https://github.com/n1ghtb0rn/LunarLight)
 - <b>Fashion Swipe, an app similar to Tinder but you swipe on clothes</b>
