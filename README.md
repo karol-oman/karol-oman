@@ -10,7 +10,10 @@
 - Nightli Android and iOS app. A mobile app for nightclubs all around Sweden to manage guests and get new guests.
   - Google Play: https://play.google.com/store/apps/details?id=se.nightli
   - iOS: https://apps.apple.com/se/app/nightli-nightclubs-events/id6443802524
-  - [Frontend and backend with React Native as well as Swift for frontend] 
+  - [Frontend and backend with React Native as well as Swift for frontend]
+  | App Preview 1                       | App Preview 2                       | App Preview 3                       |
+  | ----------------------------------- | ----------------------------------- | ----------------------------------- |
+  | ![One](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/d8/8f/34/d88f346a-0bfd-2a98-2690-e0a9676cf180/1d8081cd-ab7e-4191-b885-5591d31e3862_Namnlo_U0308st-2__U00281_U0029.jpeg/230x0w.webp) | ![Two](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/d8/8f/34/d88f346a-0bfd-2a98-2690-e0a9676cf180/1d8081cd-ab7e-4191-b885-5591d31e3862_Namnlo_U0308st-2__U00281_U0029.jpeg/230x0w.webp) | ![Three](https://play-lh.googleusercontent.com/8I22tTTQPivG6b12TEObJ20B70MNOZD0bP9AC-FD3ZDYmUE08pg-zEFyQb-Ku1G8XA=w526-h296-rw)
 
 - <b>Chaching iOS App, a mobile app providing coupon codes that are tested for your favorite stores</b>
   - [Frontend, backend, and Firebase in React Native]
