@@ -19,7 +19,7 @@
   - [Praciting Frontend, Firebase & Backend in Swift](https://github.com/GustavSoderberg/moviemates)
   | App Preview 1                       | App Preview 2                       | App Preview 3                       |
   | ----------------------------------- | ----------------------------------- | ----------------------------------- |
-  | ![One](https://github.com/karol-oman/karol-oman/assets/90765144/9e6c8e3e-0ef7-426f-92bb-0a8dabe55939) width="200" height="400"
+  | ![One](https://github.com/karol-oman/karol-oman/assets/90765144/9e6c8e3e-0ef7-426f-92bb-0a8dabe55939 =250x250)
 ) | ![Two](https://github.com/karol-oman/karol-oman/assets/90765144/a7c4272b-2253-4f67-891a-680a60b20b06)
 ) | ![Three](https://github.com/karol-oman/karol-oman/assets/90765144/494f992a-f8b8-4e6b-88c5-1c9a6a93d94a)
 )
