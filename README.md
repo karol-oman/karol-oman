@@ -28,7 +28,7 @@
 
   <img src="https://github.com/karol-oman/karol-oman/assets/90765144/e57ded6f-3113-4276-9e3f-3795c1ce9d4a" with="300" height="650">
   <img src="https://github.com/karol-oman/karol-oman/assets/90765144/d671ad40-03c1-4590-9229-44f43aa0e6cf" with="300" height="650">
-  <img src="https://github.com/karol-oman/karol-oman/assets/90765144/e57ded6f-3113-4276-9e3f-3795c1ce9d4a" with="300" height="650">
+  <img src="https://github.com/karol-oman/karol-oman/assets/90765144/c33f2dbe-4896-4eed-ba15-642cd715f61b" with="300" height="650">
 
 - <b>Moviemates, an app to find new movies and share your opinions on your favorite movies</b>
   - [Praciting Frontend, Firebase & Backend in Swift](https://github.com/GustavSoderberg/moviemates)
