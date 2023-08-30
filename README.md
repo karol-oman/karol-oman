@@ -17,9 +17,6 @@
 
 - <b>Lunarlight, chat app for iOS</b>
   - [Made in Swift](https://github.com/n1ghtb0rn/LunarLight)
-  | App Preview 1                       | App Preview 2                       | App Preview 3                       |
-  | ----------------------------------- | ----------------------------------- | ----------------------------------- |
-  | ![Four](https://github.com/karol-oman/karol-oman/assets/90765144/e57ded6f-3113-4276-9e3f-3795c1ce9d4a) | ![Five](https://github.com/karol-oman/karol-oman/assets/90765144/d671ad40-03c1-4590-9229-44f43aa0e6cf) | ![Six](https://github.com/karol-oman/karol-oman/assets/90765144/e57ded6f-3113-4276-9e3f-3795c1ce9d4a)
 
   <img src="https://github.com/karol-oman/karol-oman/assets/90765144/e57ded6f-3113-4276-9e3f-3795c1ce9d4a" with="300" height="650">
   <img src="https://github.com/karol-oman/karol-oman/assets/90765144/d671ad40-03c1-4590-9229-44f43aa0e6cf" with="300" height="650">
