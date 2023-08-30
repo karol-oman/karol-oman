@@ -4,7 +4,7 @@
 <br>- React Native Developer 📱
 <br>- iOS Developer 📱
 <br>- Frontend Developer 💻
-<br>- Contact me <a href="mailto:karolomanlol@gmail.com">luca.salmi90@gmail.com</a>, Linkedin: https://www.linkedin.com/in/karol-%C3%B6-a6289813a/
+<br>- Contact me <a href="mailto:karolomanlol@gmail.com">karolomanlol@gmail.com</a>, Linkedin: https://www.linkedin.com/in/karol-%C3%B6-a6289813a/
 
 <h2>👨‍💻 App, Frontend Development Projects:</h2>
 
