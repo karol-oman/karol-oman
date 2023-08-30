@@ -1,4 +1,4 @@
-<h1>Hi, I'm Karol! <br/><a href="https://github.com/joshmadakor1">App-, Frontend Developer</a>, <a href="https://www.linkedin.com/in/karol-%C3%B6-a6289813a/">Self Employed at Savvyleads Media</a></h1>
+<h1>Hi, I'm Karol! <br/><a href="https://github.com/karol-oman">App-, Frontend Developer</a>, <a href="https://www.linkedin.com/in/karol-%C3%B6-a6289813a/">Self Employed at Savvyleads Media</a></h1>
 
 <h2>👨‍💻 App, Frontend Development Projects:</h2>
 
