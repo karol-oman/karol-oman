@@ -19,9 +19,9 @@
   - [Praciting Frontend, Firebase & Backend in Swift](https://github.com/GustavSoderberg/moviemates)
   | App Preview 1                       | App Preview 2                       | App Preview 3                       |
   | ----------------------------------- | ----------------------------------- | ----------------------------------- |
-  | <img src="https://github.com/karol-oman/karol-oman/assets/90765144/e57ded6f-3113-4276-9e3f-3795c1ce9d4a" with="48" height="48">
-) | ![Two](https://github.com/karol-oman/karol-oman/assets/90765144/a7c4272b-2253-4f67-891a-680a60b20b06)
-) | ![Three](https://github.com/karol-oman/karol-oman/assets/90765144/494f992a-f8b8-4e6b-88c5-1c9a6a93d94a)
+  | <img src="https://github.com/karol-oman/karol-oman/assets/90765144/e57ded6f-3113-4276-9e3f-3795c1ce9d4a" with="400" height="800">
+) | <img src="https://github.com/karol-oman/karol-oman/assets/90765144/d671ad40-03c1-4590-9229-44f43aa0e6cf" with="400" height="800">
+) | <img src="https://github.com/karol-oman/karol-oman/assets/90765144/e57ded6f-3113-4276-9e3f-3795c1ce9d4a" with="400" height="800">
 )
 - <b>Lunarlight, chat app for iOS</b>
   - [Made in Swift](https://github.com/n1ghtb0rn/LunarLight)
